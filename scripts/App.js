@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import testy from './testy'
+import testy from './testy';
 
 testy();
 export default class App extends Component {
